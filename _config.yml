@@ -1,7 +1,7 @@
 name: Montreal Real Estate and Other Stuff
 favicon: null
 layout_spectrum: 0.00293
-typography_spectrum: 0.9786107307299972
+typography_spectrum: 0.7544
 title: Montreal Real Estate
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.5266758436337113
+  brandStrength: 1
   lightness: 0.1719410801306367
   saturation: 0.15161277074366808
   rhythmicContrast: 0.5995538874994963
