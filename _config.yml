@@ -1,0 +1,28 @@
+name: Montreal Real Estate
+favicon: null
+layout_spectrum: 0.8697059827391058
+typography_spectrum: 0.9786107307299972
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5266758436337113
+  lightness: 0.1719410801306367
+  saturation: 0.15161277074366808
+  rhythmicContrast: 0.5995538874994963
+purpose: []
