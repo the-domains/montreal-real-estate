@@ -13,8 +13,8 @@ description: >-
   but slowly the word has been getting out and we are getting known for our
   diverse and excellent restaurant fare as well as our boutique shopping
   culture. *all photos are by B
-datePublished: '2016-06-27T19:09:13.188Z'
-dateModified: '2016-06-27T19:08:21.779Z'
+datePublished: '2016-06-27T19:10:16.142Z'
+dateModified: '2016-06-27T19:09:20.133Z'
 title: ''
 author: []
 sourcePath: >-
